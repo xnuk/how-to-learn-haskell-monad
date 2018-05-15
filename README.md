@@ -1,2 +1,2 @@
 # How to learn Haskell Monad
-1. Don't
+1. [Don't](https://xtendo.org/monad)
